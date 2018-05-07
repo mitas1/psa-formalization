@@ -1,0 +1,17 @@
+# prvá sekcia uvádza počet vrcholov
+3
+# druhá sekcia n riadkov, tvorí maticu vzdialeností
+0 13 90
+12 0 35
+45 35 0
+# tretia sekcia n riadkov, dvojica najskorší a najneskorší možný čas navštívenia
+0 13
+12 50
+0 66
+# pocet vozidiel m, 1 ak nie je definované
+1
+# m riadkov, kde každý udáva kapacitu vozidla
+6
+# riadok obsahujúci n prvkov, kde každý je požiadavka pre jeden vrchol, teda koľko je potrebné na
+# každom vrchole naložiť resp. vyložiť
+2 4 -6
