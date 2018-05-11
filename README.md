@@ -1,6 +1,6 @@
 # PSA formalizácia problému
 
-Formalizácia problému PSA, slúži pre interné potreby diplomovej práce.
+Formalizácia problému PSA, slúži pre interné potreby diplomovej práce. Je opísaná v súbore [formalization.pdf](./out/formalization.pdf).
 
 ## Parser
 
